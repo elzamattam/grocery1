@@ -1,0 +1,94 @@
+{
+    "Grocery": [{
+            "Serial No:": "1",
+            "Name:": "Apple",
+            "Quantity": "1",
+            "Unit": "kg",
+            "Department:": "Fruits",
+            "Notes": "Buy Fresh"
+
+        },
+        {
+            "Serial No:": "2",
+            "Name:": "Pineapple",
+            "Quantity": "1",
+            "Unit": "kg",
+            "Department:": "Fruits",
+            "Notes": "Buy Fresh"
+
+        },
+        {
+            "Serial No:": "3",
+            "Name:": "Grapes",
+            "Quantity": "1",
+            "Unit": "kg",
+            "Department:": "Fruits",
+            "Notes": "Buy Fresh"
+
+        },
+        {
+            "Serial No:": "4",
+            "Name:": "Cabbage",
+            "Quantity": "500",
+            "Unit": "Grams",
+            "Department:": "Vegetables",
+            "Notes": "Buy Fresh"
+
+        },
+        {
+            "Serial No:": "5",
+            "Name:": "Corn",
+            "Quantity": "1",
+            "Unit": "kg",
+            "Department:": "Vegetables",
+            "Notes": "Buy Fresh"
+
+        },
+        {
+            "Serial No:": "6",
+            "Name:": "Red Chilli",
+            "Quantity": "500",
+            "Unit": "Grams",
+            "Department:": "Vegetables",
+            "Notes": "Buy Fresh"
+
+        },
+        {
+            "Serial No:": "7",
+            "Name:": "Green Chilli",
+            "Quantity": "500",
+            "Unit": "Grams",
+            "Department:": "Vegetable",
+            "Notes": "Buy Fresh"
+
+        },
+        {
+            "Serial No:": "8",
+            "Name:": "Turmeric",
+            "Quantity": "1",
+            "Unit": "kg",
+            "Department:": "Spices",
+            "Notes": "Buy Fresh"
+
+        },
+        {
+            "Serial No:": "9",
+            "Name:": "Mustard",
+            "Quantity": "100",
+            "Unit": "Grams",
+            "Department:": "Contiments",
+            "Notes": "Check Packaging"
+
+        },
+        {
+            "Serial No:": "10",
+            "Name:": "Urad Dal",
+            "Quantity": "1",
+            "Unit": "kg",
+            "Department:": "Contiments",
+            "Notes": "Check expiry Date"
+
+        }
+
+    ]
+}
